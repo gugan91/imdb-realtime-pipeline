@@ -81,4 +81,4 @@ streamlit run dashboard.py
 
 ## 👨‍💻 Author
 
-Gugan Loganathan – *Amazon Internal SDE Transfer Candidate*
+Gugan Loganathan
