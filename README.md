@@ -1,11 +1,11 @@
 
-# 🎬 Real-Time Analytics Pipeline – IMDb User Engagement Metrics
+# Real-Time Analytics Pipeline – IMDb User Engagement Metrics
 
 This project simulates a real-time data pipeline for processing and analyzing user engagement events (views, clicks) like those on IMDb. It demonstrates a foundational system design for data engineering pipelines and includes a simulated stream, real-time consumer processing, SQL storage, and dashboard visualization.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** – simulation, streaming, data processing
 - **queue.Queue** – simulates streaming pipeline (like Amazon Kinesis)
@@ -15,7 +15,7 @@ This project simulates a real-time data pipeline for processing and analyzing us
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 ```text
 +------------------+       +--------------+       +----------------+
@@ -35,7 +35,7 @@ This project simulates a real-time data pipeline for processing and analyzing us
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
 ```bash
@@ -60,7 +60,7 @@ streamlit run dashboard.py
 
 ---
 
-## 📊 Metrics Tracked
+## Metrics Tracked
 
 - Active Users (unique user IDs)
 - Most Viewed Movies Today
@@ -69,7 +69,7 @@ streamlit run dashboard.py
 
 ---
 
-## 🧠 Future Enhancements
+## Future Enhancements
 
 - Integrate with **Amazon Kinesis** for real AWS streaming
 - Use **Amazon DynamoDB** for scalable storage
@@ -79,6 +79,6 @@ streamlit run dashboard.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Gugan Loganathan
